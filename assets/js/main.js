@@ -305,11 +305,11 @@
       role: "Programmation STM32, pilotage des moteurs, intégration des capteurs, communication MQTT et flux Node-RED."
     },
     fraude: {
-      title: "Bouclier",
+     
       kicker: "Stage de fin d'études · OXYDEV · 2024",
       badge: "Web",
       image: "assets/img/project-fraude.svg",
-      alt: "Tableau de bord de l'application anti-fraude Bouclier",
+      alt: "Tableau de bord de l'application anti-fraude ",
       desc: "Application web de détection et de prévention des fraudes, pensée pour centraliser les transactions à risque, suivre les alertes et faciliter la décision des analystes.",
       features: [
         "Interfaces de suivi des transactions et des alertes",
